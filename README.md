@@ -70,9 +70,6 @@ The frontend will run on [http://localhost:3000](http://localhost:3000) and the 
 - **Local Storage:** Shortened links are saved in your browser’s local storage.
 - **API Errors:** If the CleanURI API is down or returns an error, you’ll see a helpful message.
 
-## Screenshots
-
-![Shorten and stack results](./design/desktop-preview.jpg)
 
 ## Credits
 
