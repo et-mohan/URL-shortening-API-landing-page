@@ -32,7 +32,7 @@ A responsive React landing page that lets users shorten URLs using the [Clean UR
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/url-shortening-api.git
+git clone https://github.com/et-mohan/URL-shortening-API-landing-page.git
 cd url-shortening-api
 ```
 
