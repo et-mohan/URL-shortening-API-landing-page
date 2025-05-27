@@ -2,7 +2,7 @@
 
 A responsive React landing page that lets users shorten URLs using the [Clean URI API](https://cleanuri.com/docs), view a stack of their shortened links, and copy them with one click.
 
-![Design preview for the Shortly URL shortening API coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Shortly URL shortening API coding challenge](./img/desktop-preview.jpg)
 
 ## Features
 
@@ -32,7 +32,7 @@ A responsive React landing page that lets users shorten URLs using the [Clean UR
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/url-shortening-api.git
+git clone https://github.com/et-mohan/URL-shortening-API-landing-page.git
 cd url-shortening-api
 ```
 
